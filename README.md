@@ -25,3 +25,40 @@ Dashboard:
 * 4 to 6 hours was the peak length of time bikes were checked out for all rider.
 
 ![checkout time for users](https://github.com/k2handa/bikesharing/blob/master/Tableau%20Story/checkout%20time%20for%20users.png)
+
+### Checkout times by gender
+
+* The length of time that bikes were checked out by Gender (see image below).
+* 4 to 6 hours was the peak length of time bikes were checked out for males.
+* 5 to 7 hours was the peak length of time bikes were checked out for females.
+
+### Trips by weekend per hour 
+
+* The number of bike trips for all riders for each hour of each day of the week (see image below).
+* Weekdays have a higher stop-time from 7 am to 10 am and 5 pm to 7 pm for all rider.
+* Weekend have spread out stop-time between 10 am to 7 pm for all rider.
+
+### Trips by gender (weekday per hour)
+
+* The number of bike trips by genders for each hour of each day of the week (see image below).
+* Weekdays have a higher stop-time from 7 am to 10 am and 5 pm to 7 pm for Male riders.
+* Weekend have spread out stop-time between 10 am to 7 pm for Male riders.
+* Weekdays have a higher stop-time from 8 am to 10 am and 5 pm to 7 pm for Female riders.
+* Weekend have spread out stop-time between 11 am to 6 pm for Female riders.
+
+### User Trips by user by weekday
+
+* The number of bike trips for each type of user and gender for each day of the week (see image below).
+* Male and Female Subscriber riders peak is during the weekdays
+* Male and Female Customer riders peak is during the weekends.
+
+## Summary
+
+* we can see the users tend to heavily use the bike sharing before and after working times, more so after working hours.
+* male users seem to be the brunt of the users for bike sharing as well compared to women.
+* while there a heavy amount of users during the weekdays before and after working hours, there is a more of a distribution of users on the weekends spread through   the day
+
+further analysis that could have been done, is to create a calculation field to calculate the distance between Start Station and End Station for each trip and create the following two visualizations:
+
+* The avg distance traveled for all riders and genders for each week of the day.
+* The avg distance traveled for each type of user and gender for each week of the day.
