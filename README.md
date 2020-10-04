@@ -32,11 +32,15 @@ Dashboard:
 * 4 to 6 hours was the peak length of time bikes were checked out for males.
 * 5 to 7 hours was the peak length of time bikes were checked out for females.
 
-### Trips by weekend per hour 
+![checkout times by gender](https://github.com/k2handa/bikesharing/blob/master/Tableau%20Story/checkout%20times%20by%20gender.png)
+
+### Trips by weekday per hour 
 
 * The number of bike trips for all riders for each hour of each day of the week (see image below).
 * Weekdays have a higher stop-time from 7 am to 10 am and 5 pm to 7 pm for all rider.
 * Weekend have spread out stop-time between 10 am to 7 pm for all rider.
+
+
 
 ### Trips by gender (weekday per hour)
 
