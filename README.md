@@ -17,5 +17,6 @@ Citi Bike is a bicycle sharing system in New York City. Travelers use bikes to e
 * Number for Bikes in use is lowest between 1 am to 5 am.
 
 Dashboard:
+![Citibike Dashboard](./Tableau Story/Citibike Dashboard.png)
 
 
