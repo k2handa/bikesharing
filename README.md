@@ -58,6 +58,8 @@ Dashboard:
 * Male and Female Subscriber riders peak is during the weekdays
 * Male and Female Customer riders peak is during the weekends.
 
+![user trips by gender by weekday](https://github.com/k2handa/bikesharing/blob/master/Tableau%20Story/user%20trips%20by%20gender%20by%20weekday.png)
+
 ## Summary
 
 * we can see the users tend to heavily use the bike sharing before and after working times, more so after working hours.
@@ -68,3 +70,7 @@ further analysis that could have been done, is to create a calculation field to 
 
 * The avg distance traveled for all riders and genders for each week of the day.
 * The avg distance traveled for each type of user and gender for each week of the day.
+
+please see NYC citibike story below:
+
+[Link to Story](https://public.tableau.com/profile/kevin.handa#!/vizhome/citibikechallenge/NYCCitibankStory?publish=yes)
