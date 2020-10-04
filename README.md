@@ -40,7 +40,7 @@ Dashboard:
 * Weekdays have a higher stop-time from 7 am to 10 am and 5 pm to 7 pm for all rider.
 * Weekend have spread out stop-time between 10 am to 7 pm for all rider.
 
-
+![trips by weekday per hour](https://github.com/k2handa/bikesharing/blob/master/Tableau%20Story/trips%20by%20weekday%20per%20hour.png)
 
 ### Trips by gender (weekday per hour)
 
