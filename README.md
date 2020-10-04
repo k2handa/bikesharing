@@ -50,6 +50,8 @@ Dashboard:
 * Weekdays have a higher stop-time from 8 am to 10 am and 5 pm to 7 pm for Female riders.
 * Weekend have spread out stop-time between 11 am to 6 pm for Female riders.
 
+![trips by gender (weekday per hour)](https://github.com/k2handa/bikesharing/blob/master/Tableau%20Story/trips%20by%20gender%20(weekday%20per%20hour).png)
+
 ### User Trips by user by weekday
 
 * The number of bike trips for each type of user and gender for each day of the week (see image below).
