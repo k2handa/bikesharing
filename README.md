@@ -10,4 +10,10 @@ Citi Bike is a bicycle sharing system in New York City. Travelers use bikes to e
     
 ## Results
     
-    
+### CitiBike Dashboard
+* 1,900,356 were Subsriber Users and 443,865 were Customer Users.
+* 1,530,272 were Males, 588,431 were Females and 225,521 were unknown users.
+* Peak trip start time in August was 5 pm to 7 pm.
+* Number for Bikes in use is lowest between 1 am to 5 am.
+
+
