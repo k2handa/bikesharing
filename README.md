@@ -19,4 +19,8 @@ Citi Bike is a bicycle sharing system in New York City. Travelers use bikes to e
 Dashboard:
 ![Citibike Dashboard](https://github.com/k2handa/bikesharing/blob/master/Tableau%20Story/Citibike%20Dashboard.png)
 
+### Checkout Times for users
+
+* The length of time that bikes were checked out by all riders(see image below).
+* 4 to 6 hours was the peak length of time bikes were checked out for all rider.
 
