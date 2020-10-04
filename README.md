@@ -16,4 +16,6 @@ Citi Bike is a bicycle sharing system in New York City. Travelers use bikes to e
 * Peak trip start time in August was 5 pm to 7 pm.
 * Number for Bikes in use is lowest between 1 am to 5 am.
 
+Dashboard:
+
 
