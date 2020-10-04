@@ -24,3 +24,4 @@ Dashboard:
 * The length of time that bikes were checked out by all riders(see image below).
 * 4 to 6 hours was the peak length of time bikes were checked out for all rider.
 
+![checkout time for users]
